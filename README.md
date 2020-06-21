@@ -20,3 +20,20 @@
     - `parallelism`
 
         This is to allow the spark to be able to run executors in parallel and thus increasing the throughput of our spark job.
+
+3. **Screenshots of work**
+
+    - Console Consumer:
+
+      ![alt text](console-consumer.png "Console Consumer")
+
+    - Spark Progress Reporter:
+
+      ![alt text](spark-progress-reporter.png "Spark Progress Reporter")
+    - Spark UI Jobs:
+
+      ![alt text](spark-ui-jobs.png "Spark UI Jobs")
+
+    - Spark UI Stages:
+
+      ![alt text](spark-ui-stages.png "Spark UI Stages")
